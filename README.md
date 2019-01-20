@@ -1,2 +1,2 @@
 # aog-worktime
-Action on Google Assistent backend
+Action on Google Assistant backend.
